@@ -15,3 +15,8 @@ There is 3 different level and the number of tries increase with the difficulty 
 - Download the zip and unzip in the wanted folder.
 - Run the Appli class.
 - Play.
+
+## Ressources used
+
+Each images was picked in flaticon.com, a website which contains a huge amount of free icon uploaded by users around the world.  
+This game has only an educational purposes.
